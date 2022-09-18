@@ -1,0 +1,73 @@
+Hadoop
+Overview
+Datanodes
+Snapshot
+Startup Progress
+Utilities 
+Browse Directory
+/data
+
+Permission	Owner	Group	Size	Last Modified	Replication	Block Size	Name
+-rw-r--r--	user	supergroup	46.64 MB	9/10/2022, 7:16:04 PM	2	64 MB	file_102000.txt
+-rw-r--r--	user	supergroup	49.43 MB	9/10/2022, 7:16:05 PM	2	64 MB	file_108000.txt
+-rw-r--r--	user	supergroup	52.15 MB	9/10/2022, 7:16:05 PM	2	64 MB	file_114000.txt
+-rw-r--r--	user	supergroup	5.49 MB		9/10/2022, 7:16:06 PM	2	64 MB	file_12000.txt
+-rw-r--r--	user	supergroup	54.89 MB	9/10/2022, 7:16:06 PM	2	64 MB	file_120000.txt
+-rw-r--r--	user	supergroup	57.63 MB	9/10/2022, 7:16:07 PM	2	64 MB	file_126000.txt
+-rw-r--r--	user	supergroup	60.4 MB		9/10/2022, 7:16:07 PM	2	64 MB	file_132000.txt
+-rw-r--r--	user	supergroup	63.14 MB	9/10/2022, 7:16:08 PM	2	64 MB	file_138000.txt
+-rw-r--r--	user	supergroup	65.86 MB	9/10/2022, 7:16:09 PM	2	64 MB	file_144000.txt
+-rw-r--r--	user	supergroup	68.6 MB		9/10/2022, 7:16:09 PM	2	64 MB	file_150000.txt
+-rw-r--r--	user	supergroup	71.37 MB	9/10/2022, 7:16:10 PM	2	64 MB	file_156000.txt
+-rw-r--r--	user	supergroup	74.1 MB		9/10/2022, 7:16:11 PM	2	64 MB	file_162000.txt
+-rw-r--r--	user	supergroup	76.85 MB	9/10/2022, 7:16:13 PM	2	64 MB	file_168000.txt
+-rw-r--r--	user	supergroup	79.6 MB		9/10/2022, 7:16:13 PM	2	64 MB	file_174000.txt
+-rw-r--r--	user	supergroup	8.23 MB		9/10/2022, 7:16:17 PM	2	64 MB	file_18000.txt
+-rw-r--r--	user	supergroup	82.35 MB	9/10/2022, 7:16:16 PM	2	64 MB	file_180000.txt
+-rw-r--r--	user	supergroup	85.08 MB	9/10/2022, 7:16:18 PM	2	64 MB	file_186000.txt
+-rw-r--r--	user	supergroup	87.83 MB	9/10/2022, 7:16:19 PM	2	64 MB	file_192000.txt
+-rw-r--r--	user	supergroup	90.56 MB	9/10/2022, 7:16:20 PM	2	64 MB	file_198000.txt
+-rw-r--r--	user	supergroup	93.35 MB	9/10/2022, 7:16:21 PM	2	64 MB	file_204000.txt
+-rw-r--r--	user	supergroup	96.07 MB	9/10/2022, 7:16:22 PM	2	64 MB	file_210000.txt
+-rw-r--r--	user	supergroup	98.81 MB	9/10/2022, 7:16:23 PM	2	64 MB	file_216000.txt
+-rw-r--r--	user	supergroup	101.54 MB	9/10/2022, 7:16:24 PM	2	64 MB	file_222000.txt
+-rw-r--r--	user	supergroup	104.29 MB	9/10/2022, 7:16:25 PM	2	64 MB	file_228000.txt
+-rw-r--r--	user	supergroup	107.04 MB	9/10/2022, 7:16:27 PM	2	64 MB	file_234000.txt
+-rw-r--r--	user	supergroup	10.99 MB	9/10/2022, 7:16:29 PM	2	64 MB	file_24000.txt
+-rw-r--r--	user	supergroup	109.76 MB	9/10/2022, 7:16:29 PM	2	64 MB	file_240000.txt
+-rw-r--r--	user	supergroup	112.53 MB	9/10/2022, 7:16:32 PM	2	64 MB	file_246000.txt
+-rw-r--r--	user	supergroup	115.27 MB	9/10/2022, 7:16:34 PM	2	64 MB	file_252000.txt
+-rw-r--r--	user	supergroup	118 MB		9/10/2022, 7:16:35 PM	2	64 MB	file_258000.txt
+-rw-r--r--	user	supergroup	120.75 MB	9/10/2022, 7:16:37 PM	2	64 MB	file_264000.txt
+-rw-r--r--	user	supergroup	123.52 MB	9/10/2022, 7:16:39 PM	2	64 MB	file_270000.txt
+-rw-r--r--	user	supergroup	126.25 MB	9/10/2022, 7:16:40 PM	2	64 MB	file_276000.txt
+-rw-r--r--	user	supergroup	128.96 MB	9/10/2022, 7:16:41 PM	2	64 MB	file_282000.txt
+-rw-r--r--	user	supergroup	131.77 MB	9/10/2022, 7:16:43 PM	2	64 MB	file_288000.txt
+-rw-r--r--	user	supergroup	134.48 MB	9/10/2022, 7:16:44 PM	2	64 MB	file_294000.txt
+-rw-r--r--	user	supergroup	13.72 MB	9/10/2022, 7:16:45 PM	2	64 MB	file_30000.txt
+-rw-r--r--	user	supergroup	145.46 MB	9/10/2022, 7:16:46 PM	2	64 MB	file_318000.txt
+-rw-r--r--	user	supergroup	156.43 MB	9/10/2022, 7:16:48 PM	2	64 MB	file_342000.txt
+-rw-r--r--	user	supergroup	16.46 MB	9/10/2022, 7:16:48 PM	2	64 MB	file_36000.txt
+-rw-r--r--	user	supergroup	167.43 MB	9/10/2022, 7:16:51 PM	2	64 MB	file_366000.txt
+-rw-r--r--	user	supergroup	178.42 MB	9/10/2022, 7:16:56 PM	2	64 MB	file_390000.txt
+-rw-r--r--	user	supergroup	189.38 MB	9/10/2022, 7:16:58 PM	2	64 MB	file_414000.txt
+-rw-r--r--	user	supergroup	19.22 MB	9/10/2022, 7:16:59 PM	2	64 MB	file_42000.txt
+-rw-r--r--	user	supergroup	200.35 MB	9/10/2022, 7:17:00 PM	2	64 MB	file_438000.txt
+-rw-r--r--	user	supergroup	211.31 MB	9/10/2022, 7:17:03 PM	2	64 MB	file_462000.txt
+-rw-r--r--	user	supergroup	21.97 MB	9/10/2022, 7:17:03 PM	2	64 MB	file_48000.txt
+-rw-r--r--	user	supergroup	222.29 MB	9/10/2022, 7:17:06 PM	2	64 MB	file_486000.txt
+-rw-r--r--	user	supergroup	233.29 MB	9/10/2022, 7:17:09 PM	2	64 MB	file_510000.txt
+-rw-r--r--	user	supergroup	244.25 MB	9/10/2022, 7:17:13 PM	2	64 MB	file_534000.txt
+-rw-r--r--	user	supergroup	24.7 MB		9/10/2022, 7:17:14 PM	2	64 MB	file_54000.txt
+-rw-r--r--	user	supergroup	255.26 MB	9/10/2022, 7:17:16 PM	2	64 MB	file_558000.txt
+-rw-r--r--	user	supergroup	266.23 MB	9/10/2022, 7:17:19 PM	2	64 MB	file_582000.txt
+-rw-r--r--	user	supergroup	2.75 MB		9/10/2022, 7:17:20 PM	2	64 MB	file_6000.txt
+-rw-r--r--	user	supergroup	27.45 MB	9/10/2022, 7:17:20 PM	2	64 MB	file_60000.txt
+-rw-r--r--	user	supergroup	30.2 MB		9/10/2022, 7:17:20 PM	2	64 MB	file_66000.txt
+-rw-r--r--	user	supergroup	32.94 MB	9/10/2022, 7:17:21 PM	2	64 MB	file_72000.txt
+-rw-r--r--	user	supergroup	35.68 MB	9/10/2022, 7:17:21 PM	2	64 MB	file_78000.txt
+-rw-r--r--	user	supergroup	38.43 MB	9/10/2022, 7:17:21 PM	2	64 MB	file_84000.txt
+-rw-r--r--	user	supergroup	41.16 MB	9/10/2022, 7:17:22 PM	2	64 MB	file_90000.txt
+-rw-r--r--	user	supergroup	43.91 MB	9/10/2022, 7:17:22 PM	2	64 MB	file_96000.txt
+-rw-r--r--	user	supergroup	929 B		9/10/2022, 7:17:23 PM	2	64 MB	test.py
+Hadoop, 2018.
