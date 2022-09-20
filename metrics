@@ -1,1 +1,0 @@
-mv *.driver.BlockManager.memory.maxOnHeapMem_MB.csv ../zm/drheap ; mv *.jvm.non-heap.used.csv ../zm/nonheap ; mv *.jvm.heap.used.csv ../zm/heap ; mv *.executor.runTime.csv ../zm/run ; mv *.executor.jvmCpuTime.csv ../zm/jvmcpu ; mv *.executor.cpuTime.csv  ../zm/cpu
